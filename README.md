@@ -10,4 +10,4 @@ Things I want to acomplish with this project:
   - merge sort
   - selection sort
   -
-- finish the project before 21st of February
+- finish the project before my 22nd birthday
